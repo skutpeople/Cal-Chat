@@ -25,17 +25,13 @@ Pengguna bisa bertanya:
 
 📊 Ringkasan Konsumsi Harian
 
-Total kalori per hari
-
-Riwayat makanan
-
-Perbandingan dengan kebutuhan kalori harian
+- Total kalori per hari
+- Riwayat makanan
+- Perbandingan dengan kebutuhan kalori harian
 
 🎯 Rekomendasi Nutrisi Personal (Opsional)
 Berdasarkan:
 
-Target (diet / maintain / bulking)
-
-Riwayat konsumsi
-
-Pola makan pengguna
+- Target (diet / maintain / bulking)
+- Riwayat konsumsi
+- Pola makan pengguna
